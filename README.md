@@ -1,4 +1,4 @@
-<img width="1318" height="738" alt="dashboard_overview" src="https://github.com/user-attachments/assets/633d3617-92c0-4c53-8978-138047448d57" />
+
 ## 📊 Ecommerce Sales Dashboard (Power BI)
 
 An interactive **Ecommerce Sales Dashboard** built in **Power BI**, analyzing orders, revenue, profit, and customer behavior across categories, states, and payment modes using a relational data model and DAX measures.
@@ -33,11 +33,13 @@ The report supports slicing by **quarter** and **state**, so the same visuals ca
 
 ### KPI & Category Breakdown
 
-![KPI and Category Breakdown](screenshots-powerbi/kpi_breakdown.png)
+<img width="727" height="492" alt="kpi_breakdown" src="https://github.com/user-attachments/assets/36248f27-7a6e-4bbe-821e-4c80211aeba7" />
+
 
 ### Monthly Profit & Sub-Category Performance
 
-![Monthly Profit and Sub-Category Performance](screenshots-powerbi/monthly_profit_subcategory.png)
+<img width="573" height="626" alt="monthly_profit_subcategory" src="https://github.com/user-attachments/assets/c2c5f17b-0c01-4afb-9b98-8a677941e4da" />
+
 
 ---
 
@@ -45,7 +47,8 @@ The report supports slicing by **quarter** and **state**, so the same visuals ca
 
 Two tables connected in a **one-to-many relationship** on Order ID:
 
-![Data Model](screenshots-powerbi/data_model.png)
+<img width="722" height="413" alt="data_model" src="https://github.com/user-attachments/assets/9a094ffe-e667-43f6-8012-b7581c7fa571" />
+
 
 | Table | Fields |
 |---|---|
