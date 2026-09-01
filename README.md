@@ -1,3 +1,4 @@
+<img width="1318" height="738" alt="dashboard_overview" src="https://github.com/user-attachments/assets/633d3617-92c0-4c53-8978-138047448d57" />
 ## 📊 Ecommerce Sales Dashboard (Power BI)
 
 An interactive **Ecommerce Sales Dashboard** built in **Power BI**, analyzing orders, revenue, profit, and customer behavior across categories, states, and payment modes using a relational data model and DAX measures.
@@ -27,7 +28,8 @@ The report supports slicing by **quarter** and **state**, so the same visuals ca
 
 ### Full Dashboard
 
-'!['Ecommerce Dashboard Overview](screenshots-powerbi/dashboard_overview.png)
+<img width="1318" height="738" alt="dashboard_overview" src="https://github.com/user-attachments/assets/7ab3d605-e75e-490a-96f5-54c0111f3069" />
+
 
 ### KPI & Category Breakdown
 
