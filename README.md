@@ -27,7 +27,7 @@ The report supports slicing by **quarter** and **state**, so the same visuals ca
 
 ### Full Dashboard
 
-![Ecommerce Dashboard Overview](screenshots-powerbi/dashboard_overview.png)
+'!['Ecommerce Dashboard Overview](screenshots-powerbi/dashboard_overview.png)
 
 ### KPI & Category Breakdown
 
